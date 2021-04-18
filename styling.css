@@ -1,0 +1,35 @@
+.th
+{
+	background-color: blue;
+}
+
+body
+{
+	background-color: yellow;
+}
+p,ul
+{
+	color: red;
+
+}
+ul
+{
+	margin-top: 20px;
+	
+}
+h1
+{
+	text-align: center;
+}
+.js
+{
+	float:right;
+}
+.description
+{
+	float:left;
+}
+canvas
+{
+	margin-left:40px;
+}
