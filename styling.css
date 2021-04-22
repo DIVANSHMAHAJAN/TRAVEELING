@@ -33,3 +33,9 @@ canvas
 {
 	margin-left:40px;
 }
+.hidden{
+	display: none !important;
+}
+input{
+	max-width: 50px;
+}
